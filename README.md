@@ -1,5 +1,6 @@
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="yashhhkale402" /> </p>
+<!-- <p align="left"> <img src="[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo.svg?style=social)](https://github.com/your_username/your_repo)
+ username=rishikeshops&label=Profile%20views&color=0e75b6&style=flat" alt="yashhhkale402" /> </p>
 
 <h1 align="center">Hi , I'm Yashhh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  -->
