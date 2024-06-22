@@ -16,7 +16,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
 
 
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+<img align='right' src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media" width="300">
 
 ## :zap: Skills
 
