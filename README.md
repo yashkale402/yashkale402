@@ -124,9 +124,9 @@
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:rishikeshmashidkar@gmail.com) 💌 <br>
+  ⦿ Connect with me on [LinkedIn]() 👨🏻‍💻 <br>
+  ⦿ Follow me on [Hashnode]() 🌐 <br>
+  ⦿ Shoot Me an [Email](yashkale402402@gmail.com) 💌 <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
  -->
