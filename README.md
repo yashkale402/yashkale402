@@ -12,8 +12,9 @@
   </samp>
   <br/>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkale402&color=0e75b6&style=flat" alt="yashkale402" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkale402&" alt="yashkale402" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkale402&" alt="yashkale402" /></p> -->
 
 <a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;"> <a href="/" title="make a gif">
 
