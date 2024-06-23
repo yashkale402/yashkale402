@@ -12,7 +12,7 @@
   </samp>
   <br/>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkale402&color=#2565AE" alt="yashkale402" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkale402&" alt="yashkale402" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&theme=algolia" style="max-width: 100%;">
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkale402&" alt="yashkale402" /></p> -->
 
