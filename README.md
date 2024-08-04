@@ -110,16 +110,7 @@
 </details> 
 
   </details>
-    <details>
-  <summary><b>📈 My Contributions</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikeshops&theme=great_gatsby" alt="rishikeshops" /></p>
- 
-
-</details>
-
- 
-   
+  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
