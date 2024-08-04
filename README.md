@@ -137,12 +137,12 @@
 
 
 
+
+
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
    <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
  -->
 
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg)
 
