@@ -87,9 +87,7 @@
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-  ⦿ Connect with me on [LinkedIn](www.linkedin.com/in/yashkale001) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode]() 🌐 <br>
-  ⦿ Shoot Me an [Email](yashkale402402@gmail.com) 💌 <br>
+
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
  -->
