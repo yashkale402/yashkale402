@@ -1,17 +1,18 @@
 # Hi 👋 I'm Yash Kale
 
-### 🚀 DevOps Engineer | Cloud & Automation Enthusiast
+### 🚀 DevOps Engineer | Cloud | Automation | CI/CD Enthusiast
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=26\&duration=3000\&pause=900\&center=true\&vCenter=true\&width=500\&lines=Welcome+to+my+GitHub!;DevOps+%7C+Cloud+%7C+Automation;Always+learning+new+tech+⚡)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=26\&duration=3000\&pause=900\&center=true\&vCenter=true\&width=500\&lines=Welcome+to+my+GitHub!;DevOps+%7C+Cloud+%7C+Automation;Building+Efficient+Pipelines;Always+Learning+⚡)
 
 ---
 
 ## 👨‍💻 About Me
 
-* ⚙️ DevOps Engineer passionate about automation & scalability
-* ☁️ Skilled in Cloud, Containers, and Infrastructure as Code
-* 📚 Continuously learning modern DevOps tools & workflows
-* 🤝 Love connecting with people and collaborating on projects
+* ⚙️ Passionate about DevOps, Automation & Scalable Infrastructure
+* ☁️ Working with Cloud, Containers & Infrastructure as Code
+* 🔄 Focused on CI/CD optimization and workflow efficiency
+* 🧠 Currently sharpening skills in **Python for automation**
+* 🤝 Open to collaboration & knowledge sharing
 
 ---
 
@@ -19,13 +20,13 @@
 
 ### 🚀 DevOps & Cloud
 
-![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,ansible,git)
+![DevOps](https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,ansible,git,gitlab)
 
-### 💻 Development Tools
+### 💻 Languages & Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,go)
+![Languages](https://skillicons.dev/icons?i=python,vscode)
 
-### 📊 Monitoring
+### 📊 Monitoring & Observability
 
 ![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)
 
@@ -37,7 +38,16 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashkale402\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkale402\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkale402\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+* 🚀 Mastering CI/CD pipelines with GitHub & GitLab
+* ☁️ Deep diving into AWS architecture
+* 🐳 Kubernetes workload optimization
+* 🐍 Automation scripting with Python
 
 ---
 
